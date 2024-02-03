@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set the default font family and size */
+  title {
+    font-family: futura;
+    font-size: 25px;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+  }
+
